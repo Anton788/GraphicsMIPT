@@ -6,5 +6,5 @@ void main()
 {
 
 	fragmentColor.rgb = color;
-	fragmentColor.a = 0.8;
+	fragmentColor.a = 0.5;
 }
